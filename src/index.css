@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans Thai", ui-sans-serif, system-ui, sans-serif;
+  --color-brand-bg: #fff2e1;
+  --color-brand-gray: #7e7e7e;
+  --color-brand-black: #000000;
+}
+
+body {
+  background-color: #e5e7eb;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "E-Menu สั่งอาหารออนไลน์",
+  "description": "ระบบสั่งอาหารในร้านแบบสแกน QR Code มีหมวดหมู่อาหารจานหลักและคาเฟ่ พร้อมระบบตะกร้าสินค้า",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
